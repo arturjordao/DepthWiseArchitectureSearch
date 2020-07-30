@@ -1,7 +1,9 @@
 # Depth-Wise Neural Architecture Search
 This repository provides the implementation of the method proposed in our paper [Depth-Wise Neural Architecture Search](https://arxiv.org/pdf/2004.11178.pdf). 
 
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+<img src="/Figures/Main.svg">
+
+<img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="LICENSE" align="right">
 
 ## Requirements
 - [Scikit-learn](http://scikit-learn.org/stable/)
@@ -37,7 +39,7 @@ Fernando Yamada,
 Maiko Lie and
 William Robson Schwartz},
 title     = {Depth-Wise Neural Architecture Search},
-booktitle = {arXiv},
+booktitle = {International Conference on Pattern Recognition (ICPR). Accepted for publication.},
 }
 ```
 
