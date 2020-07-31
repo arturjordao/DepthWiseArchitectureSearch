@@ -1,7 +1,7 @@
 # Depth-Wise Neural Architecture Search
-This repository provides the implementation of the method proposed in our paper [Depth-Wise Neural Architecture Search](https://arxiv.org/pdf/2004.11178.pdf). 
+This repository provides the implementation of the method proposed in our paper [Depth-Wise Neural Architecture Search](https://arxiv.org/pdf/2004.11178.pdf). Our method discovers competitive and high-performance architectures by exploring one order of magnitude fewer models compared to other approaches, as shown in the figure below. In addition, our method is the most resource-efficient as it designs architectures in a few hours on a single GPU.
 
-<img src="/Figures/Main.svg">
+<img src="/Figures/Main2.svg">
 
 <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="LICENSE" align="right">
 
